@@ -1,14 +1,14 @@
-Rose
-Tulip
-Daisy
-Sunflower
-Lily
-Lotus
-Orchid
-Violet
-Daffodil
-Marigold
+Rose 5
+Tulip 9
+Daisy 4
+Sunflower 18
+Lily 5
+Lotus 1
+Orchid 5 
+Violet 4
+Daffodil 00
+Marigold 00
 
 Adding two flowers:
-water lily
-lotus
+water lily 2
+lotus 1
