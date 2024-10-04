@@ -8,3 +8,7 @@ Orchid
 Violet
 Daffodil
 Marigold
+
+Adding two flowers:
+water lily
+lotus
